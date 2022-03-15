@@ -1,7 +1,12 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+</div>   -->
+
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:marginlon"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@zengcheng?v=1" align="right">
+</p>
+
 
 ### I'm MarginLon, a newly graduated software engineer 👨‍💻   
   
