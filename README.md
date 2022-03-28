@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on [Ceprei](https://www.ceprei.com/)  
   
 
-- 🌱 I’m currently learning Qt and C++  
+- 🌱 I’m currently learning Java and Spring  
   
 
 - ❓ Ask me about anything related to my repos  
