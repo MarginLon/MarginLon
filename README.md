@@ -17,9 +17,6 @@
 - 🌱 I’m currently learning Front-end  
   
 
-- ❓ Ask me about anything related to my repos  
-  
-
 - ⚡ Fun fact: I dream of becoming a full-stack engineer.  
   
 
