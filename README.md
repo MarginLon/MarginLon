@@ -11,7 +11,7 @@
 ### I'm MarginLon, a newly graduated software engineer 👨‍💻   
   
 
-- 🔭 I’m currently working on [Ceprei](https://www.ceprei.com/)  
+- 🔭 I’m currently in Canton
   
 
 - 🌱 I’m currently learning Front-end  
