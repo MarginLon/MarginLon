@@ -12,12 +12,8 @@
   
 
 - 🔭 I’m currently in Canton
-  
-
-- 🌱 I’m currently learning Front-end  
-  
-
-- ⚡ Fun fact: I dream of becoming a full-stack engineer.  
+    
+- ⚡ Fun fact: I'm interested in history.  
   
 
 <br/>  
